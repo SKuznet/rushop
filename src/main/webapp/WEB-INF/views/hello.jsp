@@ -5,5 +5,8 @@
 </head>
 <body>
 <h1>${name}</h1>
+<h1>${dog}</h1>
+<h1>${turtle}</h1>
+<h1>${cat}</h1>
 </body>
 </html>
